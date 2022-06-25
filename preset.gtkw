@@ -1,0 +1,77 @@
+[*]
+[*] GTKWave Analyzer v3.3.94 (w)1999-2018 BSI
+[*] Thu Nov 18 14:10:09 2021
+[*]
+[dumpfile] "D:\Downloads\Downloads\.Reg. Bank-20211117T152716Z-001\Reg. Bank\processador_tb.vcd"
+[dumpfile_mtime] "Thu Nov 18 14:06:07 2021"
+[dumpfile_size] 77923
+[savefile] "D:\Downloads\Downloads\.Reg. Bank-20211117T152716Z-001\Reg. Bank\preset.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -35 -35
+*-29.322903 450000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] processador_tb.
+[treeopen] processador_tb.uut.
+[treeopen] processador_tb.uut.banco1.
+[sst_width] 197
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 633
+@28
+processador_tb.reset
+processador_tb.clock
+@24
+processador_tb.estado[1:0]
+@200
+-
+@24
+processador_tb.pc_saida[15:0]
+@28
+processador_tb.instrucao_atual[15:0]
+@200
+-
+@28
+processador_tb.val_reg1[15:0]
+processador_tb.val_reg2[15:0]
+@200
+-
+@28
+processador_tb.ula_saida[15:0]
+processador_tb.clock
+processador_tb.reset
+processador_tb.uut.instrucao[15:0]
+@22
+processador_tb.uut.rom1.endereco[15:0]
+@200
+-
+@24
+processador_tb.uut.banco1.reg0.registro[15:0]
+processador_tb.uut.banco1.reg1.registro[15:0]
+processador_tb.uut.banco1.reg2.registro[15:0]
+@200
+-
+@24
+[color] 2
+processador_tb.uut.banco1.reg3.registro[15:0]
+[color] 3
+processador_tb.uut.banco1.reg4.registro[15:0]
+[color] 6
+processador_tb.uut.banco1.reg5.registro[15:0]
+@200
+-
+@24
+processador_tb.uut.banco1.reg6.registro[15:0]
+processador_tb.uut.banco1.reg7.registro[15:0]
+@200
+-
+@28
+processador_tb.uut.carga
+processador_tb.uut.jump
+processador_tb.uut.nop
+processador_tb.uut.transfere
+processador_tb.uut.op_ula[1:0]
+processador_tb.uut.pc_enable
+processador_tb.uut.rom_enable
+processador_tb.uut.write_en
+[pattern_trace] 1
+[pattern_trace] 0

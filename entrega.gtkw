@@ -1,0 +1,34 @@
+[*]
+[*] GTKWave Analyzer v3.3.94 (w)1999-2018 BSI
+[*] Thu Nov 18 18:50:55 2021
+[*]
+[dumpfile] "C:\Users\lucas\Documents\UTFPR\Semestre\Arquitetura e Organização de Computadores\Laboratório\Processador\Processador\processador_tb.vcd"
+[dumpfile_mtime] "Thu Nov 18 18:49:05 2021"
+[dumpfile_size] 96268
+[savefile] "C:\Users\lucas\Documents\UTFPR\Semestre\Arquitetura e Organização de Computadores\Laboratório\Processador\Processador\entrega.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -35 -35
+*-30.352951 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] processador_tb.
+[sst_width] 197
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@28
+processador_tb.reset
+processador_tb.clock
+processador_tb.estado[1:0]
+@200
+-
+@28
+processador_tb.pc_saida[15:0]
+processador_tb.instrucao_atual[15:0]
+@201
+-
+@28
+processador_tb.val_reg1[15:0]
+processador_tb.val_reg2[15:0]
+processador_tb.ula_saida[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
